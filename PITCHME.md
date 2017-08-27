@@ -152,6 +152,8 @@ $ cat /sys/fs/cgroup/cpuset/forkbomb/tasks
 ---
 ## <デモンストレーション>
 
+![Video](https://www.youtube.com/embed/W8KyjqL41AQ)
+
 ---
 # 設定上の注意
 * cgconfig.confによる設定はCentOS7では非推奨とされている
